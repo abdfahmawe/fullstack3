@@ -1,0 +1,13 @@
+.contener {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.team {
+  float: left;
+  width: 33.33%;
+}
+
+.forclear {
+  clear: both;
+}
